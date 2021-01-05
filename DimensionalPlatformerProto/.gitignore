@@ -1,0 +1,5 @@
+﻿# Ignore LÖVE builds
+*.love
+*.zip
+*.rar
+*.bak
